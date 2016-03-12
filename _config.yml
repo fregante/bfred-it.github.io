@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://bfred-it.github.io
+title: Test
+tagline: test
+description: test
+paginate: 5
